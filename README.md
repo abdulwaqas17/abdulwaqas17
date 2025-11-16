@@ -1,19 +1,20 @@
-![Dark Blue Abstract Technology LinkedIn Banner](https://github.com/user-attachments/assets/512da20a-256a-475e-b893-b79deeb4344e)
+<img width="1584" height="396" alt="waqas-banner" src="https://github.com/user-attachments/assets/0e5b4d97-7e1b-45f1-9234-e9fc1974c1cf" />
 
-# Hi 👋 I'm Muhammad Waqas
 
-## MERN Stack Developer
+# Hi 👋 I'm Abdul Waqas
+
+## Full Stack Developer
 
 ---
 
 ### 💻 Frontend Development:
-HTML, CSS, JavaScript, React.js, Tailwind CSS, Material UI
+HTML, CSS, JavaScript, React.js, React Native Tailwind CSS, Material UI
 
 ### 🛠 Backend Development:
 Node.js, Express.js, REST APIs, JWT Authentication
 
 ### 🗃 Database:
-MongoDB + Mongoose for schema & data modeling
+SQL, MongoDB + Mongoose for schema & data modeling
 
 ### 🔁 Full-Stack Projects:
 End-to-end web apps with auth, dashboards, admin/user roles, etc.
