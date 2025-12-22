@@ -4,7 +4,7 @@
 
 # Hi 👋 I'm Abdul Waqas
 
-## Full Stack Developer
+## MERN Stack Developer
 
 ---
 
