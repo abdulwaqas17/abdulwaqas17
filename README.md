@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="waqas-banner" src="https://github.com/user-attachments/assets/0e5b4d97-7e1b-45f1-9234-e9fc1974c1cf" />
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/a6cfe84d-fe2d-49f7-b31e-23db69493c15" />
+
 
 
 # Hi 👋 I'm Abdul Waqas
