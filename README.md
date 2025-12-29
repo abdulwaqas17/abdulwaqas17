@@ -9,13 +9,13 @@
 ---
 
 ### 💻 Frontend Development:
-HTML, CSS, JavaScript, React.js, React Native Tailwind CSS, Material UI
+HTML, CSS, JavaScript, React.js, React Native Tailwind CSS, Material UI, ShadeCN
 
 ### 🛠 Backend Development:
-Node.js, Express.js, REST APIs, JWT Authentication
+Node.js, Express.js, AWS
 
 ### 🗃 Database:
-SQL, MongoDB + Mongoose for schema & data modeling
+My SQL, MongoDB + DynamoDB
 
 ### 🔁 Full-Stack Projects:
 End-to-end web apps with auth, dashboards, admin/user roles, etc.
