@@ -15,7 +15,7 @@ HTML, CSS, JavaScript, React.js, React Native Tailwind CSS, Material UI, ShadeCN
 Node.js, Express.js, AWS
 
 ### 🗃 Database:
-My SQL, MongoDB + DynamoDB
+MongoDB, DynamoDB, My SQL
 
 ### 🔁 Full-Stack Projects:
 End-to-end web apps with auth, dashboards, admin/user roles, etc.
